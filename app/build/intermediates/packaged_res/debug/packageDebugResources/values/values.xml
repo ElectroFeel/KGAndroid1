@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="switchColor">#71D359</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Kinetic Gallery</string>
+    <string name="todo">TODO</string>
+    <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        
+    </style>
+</resources>

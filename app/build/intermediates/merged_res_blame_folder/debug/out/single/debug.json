@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_brightnessicon.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\brightnessicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_pausebtn.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\pausebtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_note_icon.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\note_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_bgr2.jpg.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\bgr2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_lineborder.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\lineborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_sun_status.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\sun_status.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\layout_pre_activity.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\layout\\pre_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_statusborder.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\statusborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_seekbar_thumb.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\seekbar_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_speedicon.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\speedicon.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_on_off_background.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\on_off_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_suniconscaled.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\suniconscaled.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_pro_thin.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_pro_thin.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_void_tail_bt_connect.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\void_tail_bt_connect.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_medium.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_medium.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_logokg.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\logokg.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_fw_button.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\fw_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_black.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_black.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_heavy.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_heavy.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_bw_button.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\bw_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_mini_phantom2.png.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\mini_phantom2.png"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_bt_icon.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\bt_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_ultralight.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_ultralight.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_handhello.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\handhello.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_switch_color.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\switch_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_sculpture_tail_background.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\sculpture_tail_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_logof.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\logof.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_statusdiode.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\statusdiode.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_thump.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\thump.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_playbtn.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\playbtn.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_bold.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_chevron.xml.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\chevron.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_regular.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_regular.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_light.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_light.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_semibold.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_semibold.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\drawable_bgr.jpg.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\drawable\\bgr.jpg"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_lobster.ttf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\lobster.ttf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\font_sf_thin.otf.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\font\\sf_thin.otf"
+    },
+    {
+        "merged": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-merged_res-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\alexe\\.gradle\\daemon\\8.2\\com.kinetic.kineticgallery.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    }
+]

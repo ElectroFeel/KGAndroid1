@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_statusdiode.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/statusdiode.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxxhdpi_speed_off1.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxxhdpi/speed_off1.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_thin.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_thin.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxhdpi_speed_off.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxhdpi/speed_off.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-anydpi-v26_speed_off_round.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-anydpi-v26/speed_off_round.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_ultralight.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_ultralight.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_lobster.ttf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/lobster.ttf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-hdpi_speed_off1.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-hdpi/speed_off1.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-mdpi_speed_off.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-mdpi/speed_off.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_semibold.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_semibold.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_light.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_light.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_musicoffbutton.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/musicoffbutton.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_logokg.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/logokg.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-mdpi_speed_off_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-mdpi/speed_off_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_medium.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_medium.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_sunoffbutton.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/sunoffbutton.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_seekbar_thumb.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/seekbar_thumb.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxxhdpi_speed_off.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxxhdpi/speed_off.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_black.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_black.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_heavy.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_heavy.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_bw_button.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/bw_button.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_statusborder.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/statusborder.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_on_off_background.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/on_off_background.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_bold.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_bold.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_shadow_black.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/shadow_black.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxhdpi_speed_off1.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxhdpi/speed_off1.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_thump.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/thump.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_speed_off_background.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/speed_off_background.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_handbuttonoff.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/handbuttonoff.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_logof.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/logof.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxxhdpi_speed_off_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxxhdpi/speed_off_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_gifa.gif.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/gifa.gif"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-hdpi_speed_off.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-hdpi/speed_off.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-anydpi-v26_speed_off.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-anydpi-v26/speed_off.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xhdpi_speed_off1.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xhdpi/speed_off1.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_gradback.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/gradback.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xxhdpi_speed_off_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xxhdpi/speed_off_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_pro_thin.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_pro_thin.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xhdpi_speed_off.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xhdpi/speed_off.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/font_sf_regular.otf.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/font/sf_regular.otf"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-mdpi_speed_off1.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-mdpi/speed_off1.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-xhdpi_speed_off_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-xhdpi/speed_off_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/mipmap-hdpi_speed_off_round.webp.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/mipmap-hdpi/speed_off_round.webp"
+    },
+    {
+        "merged": "com.kinetic.kineticgallery.app-debug-33:/drawable_multishadows.xml.flat",
+        "source": "com.kinetic.kineticgallery.app-main-35:/drawable/multishadows.xml"
+    }
+]

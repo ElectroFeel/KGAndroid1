@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradback"
+    android:orientation="vertical">
+
+
+    <!-- Upper status-bar -->
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/gifImageView"
+        android:layout_width="0dp"
+
+        android:layout_height="700dp"
+        android:src="@drawable/gifa"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <!-- End of Up Status Bar -->
+
+    <!-- OnOffWidget -->
+
+    <!-- End of OnOffWidget -->
+
+    <ImageButton
+        android:id="@+id/speed_button"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_marginStart="24dp"
+
+        android:layout_marginBottom="176dp"
+        android:background="@android:color/transparent"
+        android:scaleType="fitCenter"
+        android:src="@drawable/handbuttonoff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageButton
+        android:id="@+id/music_button"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="200dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/musicoffbutton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageButton
+        android:id="@+id/brightness_button"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:layout_marginStart="56dp"
+        android:layout_marginBottom="60dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/sunoffbutton"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:ignore="ExtraText" />
+
+    <ImageButton
+        android:id="@+id/hello_button"
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:layout_marginEnd="56dp"
+        android:layout_marginBottom="60dp"
+        android:background="@android:color/transparent"
+
+        android:src="@drawable/handbuttonoff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
